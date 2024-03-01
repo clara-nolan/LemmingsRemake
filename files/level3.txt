@@ -1,0 +1,5 @@
+BackGroundImage,files/level3.png
+StartPosition,0.3,0.05
+TotalWalkerLemmings,20
+LemmingsNeededToWin,4
+EndPoint,449.0,240.0
